@@ -1,8 +1,8 @@
 # Rust Finance Jobs — Europe
 
-Tracking automatico di offerte di lavoro che richiedono Rust nel settore finanziario (quant/trading/fintech) in Europa.
+Automated tracking of job openings that combine Rust with the financial sector (quant/trading/fintech) in Europe.
 
-Focus primario: market maker crypto in Svizzera (Crypto Valley — Zug/Zurigo): GSR, Wintermute, Flowdesk, B2C2, Keyrock, Galaxy.
-Aperto anche ad altri hub europei (Londra, Amsterdam, Parigi, Francoforte, Dublino, ecc.).
+Primary focus: crypto market makers based in Switzerland's Crypto Valley (Zug/Zurich): GSR, Wintermute, Flowdesk, B2C2, Keyrock, Galaxy.
+Also open to other European hubs (London, Amsterdam, Paris, Frankfurt, Dublin, etc.).
 
-Aggiornato automaticamente ogni ora da un agent cloud. I risultati vengono aggiunti in `listings.md`, senza duplicati (dedup per link).
+Updated automatically every hour by a cloud agent. New listings are appended to `listings.md`, with deduplication by link.

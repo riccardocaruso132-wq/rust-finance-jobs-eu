@@ -1,4 +1,4 @@
-# Offerte trovate
+# Listings found
 
-| Data trovato | Titolo | Azienda | Sede | Link |
+| Date found | Title | Company | Location | Link |
 |---|---|---|---|---|
